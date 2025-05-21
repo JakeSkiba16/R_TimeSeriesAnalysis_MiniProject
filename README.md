@@ -44,8 +44,7 @@ This project explores **time series data** on electricity consumption and renewa
 
 ## Files
 
-- `Open Power Systems Data.csv`: Raw dataset
-- To open the R script, view the other file in the repository
+- To open the R script and datase, view the other files in the repository
 
 ## Future Improvements
 
